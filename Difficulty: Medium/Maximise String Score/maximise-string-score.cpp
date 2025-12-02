@@ -1,4 +1,3 @@
-// User Template For C++
 
 class Solution {
 public:
